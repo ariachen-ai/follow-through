@@ -23,9 +23,7 @@ Tell your AI agent "I went to [event]" and it handles the rest:
 ### 1. Scan → Find Your New Connections
 Agent opens your LinkedIn, finds everyone you connected with around the event date.
 
-### 2. Categorize → By What You Want to Do (Not Temperature)
-
-Most networking tools use "hot/warm/cold." That's useless — it describes *how well* you connected, not *what to do next*.
+### 2. Categorize → By What You Want to Do
 
 This skill uses **action-based tiers**:
 
@@ -52,8 +50,8 @@ Agent can send via LinkedIn browser automation, or just give you text to copy. Y
 
 Event recap posts drafted for each platform:
 - **LinkedIn** — professional, tag people, highlight themes
-- **Xiaohongshu/小红书** — Chinese, visual, lifestyle angle
 - **Twitter/X** — punchy, build-in-public energy
+- **Ins/Xiaohongshu** — visual, lifestyle angle
 
 ### 6. Remind → Don't Let It Go Cold
 
@@ -73,9 +71,6 @@ Most AI tools draft generic messages. This skill studies the *difference* betwee
 
 ### Multilingual
 Auto-detects Chinese contacts and writes in Chinese. Supports bilingual Xiaohongshu posts.
-
-### Action > Temperature
-"Monica — collab, we talked about women in AI events" gives the agent 10x more useful information than "Monica — hot."
 
 ## Installation
 

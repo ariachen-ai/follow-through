@@ -76,20 +76,19 @@ Auto-detects Chinese contacts and writes in Chinese. Supports bilingual Xiaohong
 
 ### Claude Code
 ```bash
-# Clone the repo
-git clone https://github.com/anthropics/skills  # or your fork
-
-# Install the skill
-/plugin install post-event-networking
+/plugin install follow-through
 ```
+Or clone and point to the skill folder.
 
 ### Claude.ai
-1. Download the skill folder
-2. Zip it
-3. Upload via Settings → Capabilities → Skills
+1. Download this repo as a zip
+2. Upload via Settings → Capabilities → Skills
 
 ### OpenClaw
 Place the skill folder in your `skills/` directory.
+
+### Any Other Agent (ChatGPT, Cursor, etc.)
+Copy the contents of `SKILL.md` into your agent's system prompt or instructions. The skill is plain markdown — no framework lock-in.
 
 ## File Structure
 

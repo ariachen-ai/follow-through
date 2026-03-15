@@ -23,12 +23,7 @@ Agent: 🔍 Scanning your LinkedIn...
        Found 18 new connections from March 14-15. Here's everyone:
 
        1.  Sarah Kim — Community Builder @ AI Collective
-       2.  James Liu — Ex-Amazon Principal Engineer
-       3.  Wei Zhang — Stanford ML Researcher
-       4.  Priya Sharma — Founder @ DataFlow
-       5.  Alex Costa — Product Designer @ Figma
-       6.  Yuki Tanaka — AI Engineer @ Notion
-       ...and 12 more
+       ...and 18 more
 
        How do you want to follow up?
        ☕ Coffee  |  🤝 Collab (tell me what you talked about)  |  👋 Stay in touch
@@ -36,29 +31,17 @@ Agent: 🔍 Scanning your LinkedIn...
 ```
 You: Sarah — collab, we talked about hosting AI workshops for women in tech.
      James — coffee.
-     Wei — collab, he's working on the same multimodal problem I am.
      Rest stay in touch.
 ```
 ```
 Agent: Here are your drafts:
 
   🤝 Sarah: "Hey Sarah! So great meeting you at the hackathon — I loved
-  hearing about what you're building with AI Collective. I've been
-  thinking about hosting workshops for women in tech and would love to
-  explore doing something together. Let me know if you'd be down to
-  chat more about this! 😊"
+  hearing about what you're building with AI Collective... Let me know
+  if you'd be down to chat more about this! 😊"
 
-  ☕ James: "Hey James! Really enjoyed our conversation at the hackathon.
-  If you're ever around Mountain View, let me know — would love to grab
-  a coffee ☕"
-
-  🤝 Wei: "嗨 Wei！昨天在hackathon聊得很开心！你做的multimodal项目太酷了，
-  我最近也在研究类似的方向。我们可以找时间深聊一下，互相交流一些想法！"
-
-  👋 Priya: "Hey Priya! Great meeting you at the hackathon. Let's stay
-  in touch — I'll share any fun events I come across! 😊"
-
-  ...and 14 more drafts ready
+  ☕ James: "..."
+  ...and more drafts ready
 
   Which ones should I send for you, and which do you want to send yourself?
 ```
@@ -67,9 +50,7 @@ You: Send the stay-in-touch ones for me. I'll send Sarah, James, and Wei myself.
 
 Agent: Sending...
        ✅ Priya — sent
-       ✅ Alex — sent
-       ✅ Yuki — sent
-       ✅ ... (12 more sent)
+       ✅ ... (x more sent)
 
        📝 Sarah, James, and Wei drafts ready for you to copy.
        ⏰ Follow-up reminder set for April 15 for Sarah, James, and Wei.
